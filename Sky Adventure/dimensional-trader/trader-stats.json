@@ -1,0 +1,20 @@
+{
+    "trades":[
+        {
+            "buy1": {
+                "quanity": 1,
+                "item": ""
+            },
+            "buy2": {
+                "quanity": 1,
+                "item": ""
+            },
+            "sell": {
+                "quanity": 1,
+                "item": ""
+            },
+            "chance": 0.1,
+            "level": ""
+        }
+    ]
+}
